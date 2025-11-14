@@ -1,2 +1,2 @@
-# Pr-cticaParcial
+# PracticaParcial
 Creación de Formulario en PHP
